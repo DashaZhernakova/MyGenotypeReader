@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jscicore">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/lib/jscicore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

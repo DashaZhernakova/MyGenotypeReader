@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MyGenotypeReader:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyGenotypeReader_jar2</output-path>
+    <root id="archive" name="MyGenotypeReader.jar">
+      <element id="module-output" name="MyGenotypeReader" />
+      <element id="extracted-dir" path="$USER_HOME$/lib/jscicore.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../systemgenetics/dist/molgenis-genotype-reader-0.0.2-SNAPSHOT-stand-alone.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../genotype_reader/genetica-libraries/target/genetica-libraries-1.0.0-SNAPSHOT.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
